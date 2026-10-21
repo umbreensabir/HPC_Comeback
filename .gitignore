@@ -1,0 +1,6 @@
+python_parallel/.venv/
+__pycache__/
+*.pyc
+
+# Ignore compiled C++ executable binaries
+cpp_parallel/hello_parallel
